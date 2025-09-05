@@ -4,7 +4,7 @@ We will deploy a SPA (Single Page Application) on AWS S3 with CDN (Content Deliv
 
 ## Step 1: Create a frontend project
 
-For this project we will use the basic [React app with Vite] (https://vite.dev/guide/) project.
+For this project we will use the basic [React app with Vite](https://vite.dev/guide/) project.
 
 ```sh
 npm create vite@latest
